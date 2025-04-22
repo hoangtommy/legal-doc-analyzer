@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment variables and secrets
+.env
+*.env
+
+# Virtual environments
+venv/
+backend/venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# Log files
+*.log
+
+# Compiled files
+*.pyo
+*.pyd
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Dropbox Sign temporary files
+/tmp/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Frontend build output
+frontend/build/
+frontend/dist/
+
+# Ignore frontend git repo if accidentally initialized
+frontend/.git/
