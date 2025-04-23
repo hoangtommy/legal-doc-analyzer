@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/legal-doc-analyzer/static/css/main.e6c13ad2.css",
+    "main.js": "/legal-doc-analyzer/static/js/main.2dec9035.js",
+    "static/js/453.8ab44547.chunk.js": "/legal-doc-analyzer/static/js/453.8ab44547.chunk.js",
+    "index.html": "/legal-doc-analyzer/index.html",
+    "main.e6c13ad2.css.map": "/legal-doc-analyzer/static/css/main.e6c13ad2.css.map",
+    "main.2dec9035.js.map": "/legal-doc-analyzer/static/js/main.2dec9035.js.map",
+    "453.8ab44547.chunk.js.map": "/legal-doc-analyzer/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2dec9035.js"
+  ]
+}
